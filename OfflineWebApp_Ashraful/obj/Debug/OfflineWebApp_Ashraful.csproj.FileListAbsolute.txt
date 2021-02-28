@@ -1,0 +1,110 @@
+F:\Ashraful Islam\1258096\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\bin\OfflineWebApp_Ashraful.dll.config
+F:\Ashraful Islam\1258096\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\bin\OfflineWebApp_Ashraful.dll
+F:\Ashraful Islam\1258096\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\bin\OfflineWebApp_Ashraful.pdb
+F:\Ashraful Islam\1258096\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\bin\roslyn\csc.exe
+F:\Ashraful Islam\1258096\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\bin\roslyn\csc.exe.config
+F:\Ashraful Islam\1258096\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\bin\roslyn\csc.rsp
+F:\Ashraful Islam\1258096\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\bin\roslyn\csi.exe
+F:\Ashraful Islam\1258096\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\bin\roslyn\csi.exe.config
+F:\Ashraful Islam\1258096\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\bin\roslyn\csi.rsp
+F:\Ashraful Islam\1258096\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Ashraful Islam\1258096\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Ashraful Islam\1258096\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Ashraful Islam\1258096\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Ashraful Islam\1258096\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Ashraful Islam\1258096\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Ashraful Islam\1258096\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Ashraful Islam\1258096\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Ashraful Islam\1258096\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Ashraful Islam\1258096\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Ashraful Islam\1258096\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Ashraful Islam\1258096\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\bin\roslyn\System.AppContext.dll
+F:\Ashraful Islam\1258096\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\bin\roslyn\System.Collections.Immutable.dll
+F:\Ashraful Islam\1258096\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\bin\roslyn\System.Console.dll
+F:\Ashraful Islam\1258096\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Ashraful Islam\1258096\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Ashraful Islam\1258096\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\bin\roslyn\System.IO.Compression.dll
+F:\Ashraful Islam\1258096\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\bin\roslyn\System.IO.FileSystem.dll
+F:\Ashraful Islam\1258096\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Ashraful Islam\1258096\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\Ashraful Islam\1258096\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\bin\roslyn\System.IO.Pipes.dll
+F:\Ashraful Islam\1258096\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\bin\roslyn\System.Reflection.Metadata.dll
+F:\Ashraful Islam\1258096\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\bin\roslyn\System.Security.AccessControl.dll
+F:\Ashraful Islam\1258096\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\bin\roslyn\System.Security.Claims.dll
+F:\Ashraful Islam\1258096\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Ashraful Islam\1258096\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Ashraful Islam\1258096\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Ashraful Islam\1258096\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Ashraful Islam\1258096\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\bin\roslyn\System.Security.Principal.Windows.dll
+F:\Ashraful Islam\1258096\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Ashraful Islam\1258096\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\bin\roslyn\System.ValueTuple.dll
+F:\Ashraful Islam\1258096\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Ashraful Islam\1258096\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Ashraful Islam\1258096\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\bin\roslyn\System.Xml.XPath.dll
+F:\Ashraful Islam\1258096\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Ashraful Islam\1258096\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\bin\roslyn\vbc.exe
+F:\Ashraful Islam\1258096\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\bin\roslyn\vbc.exe.config
+F:\Ashraful Islam\1258096\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\bin\roslyn\vbc.rsp
+F:\Ashraful Islam\1258096\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\bin\roslyn\VBCSCompiler.exe
+F:\Ashraful Islam\1258096\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\bin\roslyn\VBCSCompiler.exe.config
+F:\Ashraful Islam\1258096\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Ashraful Islam\1258096\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Ashraful Islam\1258096\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\obj\Debug\OfflineWebApp_Ashraful.csproj.CoreCompileInputs.cache
+F:\Ashraful Islam\1258096\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\obj\Debug\OfflineWebApp_Ashraful.csproj.CopyComplete
+F:\Ashraful Islam\1258096\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\obj\Debug\OfflineWebApp_Ashraful.dll
+F:\Ashraful Islam\1258096\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\obj\Debug\OfflineWebApp_Ashraful.pdb
+G:\C# .Net Course\HTML, CSS, JavaScript\1258096_Project\1258096_Project\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\bin\OfflineWebApp_Ashraful.dll.config
+G:\C# .Net Course\HTML, CSS, JavaScript\1258096_Project\1258096_Project\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\bin\OfflineWebApp_Ashraful.dll
+G:\C# .Net Course\HTML, CSS, JavaScript\1258096_Project\1258096_Project\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\bin\OfflineWebApp_Ashraful.pdb
+G:\C# .Net Course\HTML, CSS, JavaScript\1258096_Project\1258096_Project\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\bin\roslyn\csc.exe
+G:\C# .Net Course\HTML, CSS, JavaScript\1258096_Project\1258096_Project\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\bin\roslyn\csc.exe.config
+G:\C# .Net Course\HTML, CSS, JavaScript\1258096_Project\1258096_Project\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\bin\roslyn\csc.rsp
+G:\C# .Net Course\HTML, CSS, JavaScript\1258096_Project\1258096_Project\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\bin\roslyn\csi.exe
+G:\C# .Net Course\HTML, CSS, JavaScript\1258096_Project\1258096_Project\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\bin\roslyn\csi.exe.config
+G:\C# .Net Course\HTML, CSS, JavaScript\1258096_Project\1258096_Project\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\bin\roslyn\csi.rsp
+G:\C# .Net Course\HTML, CSS, JavaScript\1258096_Project\1258096_Project\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\C# .Net Course\HTML, CSS, JavaScript\1258096_Project\1258096_Project\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\C# .Net Course\HTML, CSS, JavaScript\1258096_Project\1258096_Project\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\C# .Net Course\HTML, CSS, JavaScript\1258096_Project\1258096_Project\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\C# .Net Course\HTML, CSS, JavaScript\1258096_Project\1258096_Project\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\C# .Net Course\HTML, CSS, JavaScript\1258096_Project\1258096_Project\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\C# .Net Course\HTML, CSS, JavaScript\1258096_Project\1258096_Project\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\C# .Net Course\HTML, CSS, JavaScript\1258096_Project\1258096_Project\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\C# .Net Course\HTML, CSS, JavaScript\1258096_Project\1258096_Project\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\C# .Net Course\HTML, CSS, JavaScript\1258096_Project\1258096_Project\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\bin\roslyn\Microsoft.Managed.Core.targets
+G:\C# .Net Course\HTML, CSS, JavaScript\1258096_Project\1258096_Project\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\C# .Net Course\HTML, CSS, JavaScript\1258096_Project\1258096_Project\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\bin\roslyn\System.AppContext.dll
+G:\C# .Net Course\HTML, CSS, JavaScript\1258096_Project\1258096_Project\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\bin\roslyn\System.Collections.Immutable.dll
+G:\C# .Net Course\HTML, CSS, JavaScript\1258096_Project\1258096_Project\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\bin\roslyn\System.Console.dll
+G:\C# .Net Course\HTML, CSS, JavaScript\1258096_Project\1258096_Project\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\C# .Net Course\HTML, CSS, JavaScript\1258096_Project\1258096_Project\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\C# .Net Course\HTML, CSS, JavaScript\1258096_Project\1258096_Project\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\bin\roslyn\System.IO.Compression.dll
+G:\C# .Net Course\HTML, CSS, JavaScript\1258096_Project\1258096_Project\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\bin\roslyn\System.IO.FileSystem.dll
+G:\C# .Net Course\HTML, CSS, JavaScript\1258096_Project\1258096_Project\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\C# .Net Course\HTML, CSS, JavaScript\1258096_Project\1258096_Project\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\C# .Net Course\HTML, CSS, JavaScript\1258096_Project\1258096_Project\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\bin\roslyn\System.IO.Pipes.dll
+G:\C# .Net Course\HTML, CSS, JavaScript\1258096_Project\1258096_Project\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\bin\roslyn\System.Reflection.Metadata.dll
+G:\C# .Net Course\HTML, CSS, JavaScript\1258096_Project\1258096_Project\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\bin\roslyn\System.Security.AccessControl.dll
+G:\C# .Net Course\HTML, CSS, JavaScript\1258096_Project\1258096_Project\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\bin\roslyn\System.Security.Claims.dll
+G:\C# .Net Course\HTML, CSS, JavaScript\1258096_Project\1258096_Project\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\C# .Net Course\HTML, CSS, JavaScript\1258096_Project\1258096_Project\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\C# .Net Course\HTML, CSS, JavaScript\1258096_Project\1258096_Project\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\C# .Net Course\HTML, CSS, JavaScript\1258096_Project\1258096_Project\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\C# .Net Course\HTML, CSS, JavaScript\1258096_Project\1258096_Project\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\bin\roslyn\System.Security.Principal.Windows.dll
+G:\C# .Net Course\HTML, CSS, JavaScript\1258096_Project\1258096_Project\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\C# .Net Course\HTML, CSS, JavaScript\1258096_Project\1258096_Project\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\bin\roslyn\System.ValueTuple.dll
+G:\C# .Net Course\HTML, CSS, JavaScript\1258096_Project\1258096_Project\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\C# .Net Course\HTML, CSS, JavaScript\1258096_Project\1258096_Project\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\bin\roslyn\System.Xml.XmlDocument.dll
+G:\C# .Net Course\HTML, CSS, JavaScript\1258096_Project\1258096_Project\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\bin\roslyn\System.Xml.XPath.dll
+G:\C# .Net Course\HTML, CSS, JavaScript\1258096_Project\1258096_Project\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\C# .Net Course\HTML, CSS, JavaScript\1258096_Project\1258096_Project\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\bin\roslyn\vbc.exe
+G:\C# .Net Course\HTML, CSS, JavaScript\1258096_Project\1258096_Project\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\bin\roslyn\vbc.exe.config
+G:\C# .Net Course\HTML, CSS, JavaScript\1258096_Project\1258096_Project\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\bin\roslyn\vbc.rsp
+G:\C# .Net Course\HTML, CSS, JavaScript\1258096_Project\1258096_Project\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\bin\roslyn\VBCSCompiler.exe
+G:\C# .Net Course\HTML, CSS, JavaScript\1258096_Project\1258096_Project\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\bin\roslyn\VBCSCompiler.exe.config
+G:\C# .Net Course\HTML, CSS, JavaScript\1258096_Project\1258096_Project\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\C# .Net Course\HTML, CSS, JavaScript\1258096_Project\1258096_Project\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\C# .Net Course\HTML, CSS, JavaScript\1258096_Project\1258096_Project\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\obj\Debug\OfflineWebApp_Ashraful.csprojAssemblyReference.cache
+G:\C# .Net Course\HTML, CSS, JavaScript\1258096_Project\1258096_Project\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\obj\Debug\OfflineWebApp_Ashraful.csproj.CopyComplete
+G:\C# .Net Course\HTML, CSS, JavaScript\1258096_Project\1258096_Project\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\obj\Debug\OfflineWebApp_Ashraful.dll
+G:\C# .Net Course\HTML, CSS, JavaScript\1258096_Project\1258096_Project\OfflineWebApp_Ashraful\OfflineWebApp_Ashraful\obj\Debug\OfflineWebApp_Ashraful.pdb

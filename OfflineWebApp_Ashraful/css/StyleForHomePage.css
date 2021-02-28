@@ -1,0 +1,98 @@
+﻿html {
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #333;
+}
+
+body {
+    background: #ccc;
+    margin: 30px 50px;
+    line-height: 1.4;
+}
+.wrapper {
+    display: grid;
+    grid-gap: 20px;
+  }
+
+.main-nav ul {
+    display: grid;
+    grid-gap: 20px;
+    padding: 0;
+    list-style: none;
+    grid-template-columns: repeat(5, 1fr);
+}
+
+.main-nav a {
+    background: #ddd;
+    display: block;
+    text-decoration: none;
+    padding: 0.8rem;
+    text-align: center;
+    color: #333;
+    text-transform: uppercase;
+    font-size: 1.1rem;
+    box-shadow: 0 1px 5px rgba(104, 104, 104, 0.8);
+}
+
+.main-nav a:hover {
+    background: 0 1px 5px rgba(104, 104, 104, 0.8);
+    color: #fff;
+}
+
+.main-nav .active{
+    color:#fff;
+}
+
+.nameContainer {
+    background: url('../images/image.jpg');
+    min-height: 500px;
+    background-size: cover;
+    background-position: center;
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: center;
+    box-shadow: 0 1px 5px rgba(104, 104, 104, 0.8);
+    color: #FFF;
+}
+
+.nameContainer h1{
+    text-transform: uppercase;
+    font-size: 4rem;
+    text-shadow: 5px 5px 10px #333;
+
+    
+}
+.nameContainer h2{
+    font-size: 2rem;
+    text-shadow: 5px 5px 10px #333;
+
+}
+
+.nameContainer p{
+    font-size: 1.5rem;
+    text-shadow: 5px 5px 10px #333;
+
+}
+
+
+@media (max-width: 700px) {
+      
+    .main-nav ul {
+      grid-template-columns: 1fr;
+    }
+
+    .nameContainer h1{
+            font-size: 2.5rem;          
+    }
+
+    .nameContainer h2{
+        font-size: 1.5rem;
+    
+    }
+    
+    .nameContainer p{
+        font-size: 1rem;    
+    }
+}

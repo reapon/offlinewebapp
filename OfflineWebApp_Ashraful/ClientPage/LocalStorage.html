@@ -1,0 +1,171 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <link href="../css/StyleForLocalStorage.css" rel="stylesheet" />
+    <script src="../Scripts/jquery-3.3.1.min.js"></script>
+    <script src="../Scripts/ScriptsForLocal.js"></script>
+</head>
+<body>
+    <nav class="main-nav">
+        <ul>
+            <li>
+                <a href="Home.html">Home</a>
+            </li>
+            <li>
+                <a class="active" href="#">Local Storage</a>
+            </li>
+            <li>
+                <a href="SessionStorage.html">Session Storage</a>
+            </li>
+            <li>
+                <a href="IndexedDB.html">Indexed DB</a>
+            </li>
+            <li>
+                <a href="WebSQL.html">Web SQL</a>
+            </li>
+        </ul>
+    </nav>
+
+
+    <div id="container">
+        <header>
+            <hgroup id="headerText">
+                <h2>Student Information</h2>
+            </hgroup>
+        </header>
+
+        <div role="main">
+           
+
+            <div id="editContact">
+                <h2 id="currentAction"></h2>
+                <div>
+                    <label for="firstName">First Name : </label>
+                    <input type="text" id="firstName" name="firstName" />
+                </div>
+
+                <div>
+                    <label for="lastName">Last Name : </label>
+                    <input type="text" id="lastName" name="lastName" />
+                </div>
+
+                <div>
+                    <label for="email">Email : </label>
+                    <input type="text" id="email" name="email" />
+                </div>
+
+                <div>
+                    <label for="phoneNumber">Phone Number : </label>
+                    <input type="text" id="phoneNumber" name="phoneNumber" />
+                </div>
+
+                <div>
+                    <input type="file" id="files">
+
+                    <div id="list">
+                    </div>
+                </div>
+
+                <div>
+                    <label class="buttons"></label>
+                    <button id="btnSave" name="save">Save</button>
+                </div>
+
+            </div>
+
+            <table id="contacts">
+                <thead>
+                    <tr>
+                        <th>Email</th>
+                        <th>Phone Number</th>
+                        <th>Name</th>
+                        <th>Image</th>
+                        <th>Action</th>
+                    </tr>
+                </thead>
+                <tbody>
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <script>
+        var imagesObject = [];
+
+        function handleFileSelect(evt) {
+            var files = evt.target.files; 
+
+
+            for (var i = 0, f; f = files[i]; i++) {
+
+
+                if (!f.type.match('image.*')) {
+                    continue;
+                }
+
+                var reader = new FileReader();
+
+
+                reader.onload = function (e) {
+                    displayImgData(e.target.result)
+                    addImage(e.target.result);
+                };
+
+                reader.readAsDataURL(f);
+            }
+        }
+
+        function loadFromLocalStorage() {
+            var images = JSON.parse(localStorage.getItem("images"))
+
+            if (images && images.length > 0) {
+                imagesObject = images;
+
+                displayNumberOfImgs();
+                images.forEach(displayImgData);
+            }
+        }
+
+        function addImage(imgData) {
+            imagesObject.push(imgData);
+            displayNumberOfImgs();
+            localStorage.setItem("images", JSON.stringify(imagesObject));
+        }
+
+        function displayImgData(imgData) {
+            var span = document.createElement('span');
+            span.innerHTML = '<img class="thumb" src="' + imgData + '"/>';
+            document.getElementById('list').insertBefore(span, null);
+        }
+
+        function displayNumberOfImgs() {
+            if (imagesObject.length > 0) {
+
+
+                document.getElementById("btnSave").style.display = "inline";
+
+            } else {
+                document.getElementById("list").style.display = "none";
+            }
+
+
+        }
+
+         function deleteImages(){
+           imagesObject = [];
+           localStorage.removeItem("images");
+           displayNumberOfImgs()
+           document.getElementById('list').innerHTML = "";
+         }
+
+         document.getElementById('files').addEventListener('change', handleFileSelect, false);
+         document.getElementById('btnSave').addEventListener('click', deleteImages);
+         loadFromLocalStorage();
+
+
+    </script>
+
+</body>
+</html>
